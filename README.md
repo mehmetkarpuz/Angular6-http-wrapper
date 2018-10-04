@@ -1,6 +1,7 @@
 # HttpWrapperApp
 
 HttpWrapper ensures your project is independent of the angular http service.
+
 Project contains a sample angular application which uses Httpwrapper and JSONPlaceholder fake rest api.
 
 ## Development server
