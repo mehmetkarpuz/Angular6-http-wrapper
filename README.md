@@ -1,6 +1,7 @@
 # HttpWrapperApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
+HttpWrapper ensures your project is independent of the angular http service.
+Project contains a sample angular application which uses Httpwrapper and JSONPlaceholder fake rest api.
 
 ## Development server
 
